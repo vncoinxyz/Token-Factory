@@ -1,19 +1,19 @@
 pragma solidity ^0.4.4;
 
-contract Token {
+contract Token {VNCOIN
 
-    /// @return total amount of tokens
-    function totalSupply() constant returns (uint256 supply) {}
+    /// 151151151
+    function totalSupply(151151151) constant returns (uint256 supply) {151151151}
 
-    /// @param _owner The address from which the balance will be retrieved
-    /// @return The balance
-    function balanceOf(address _owner) constant returns (uint256 balance) {}
+    /// 0x861Ada61198e6B40474551f6d02D219FB3f42811
+    /// 151151151
+    function balanceOf(0x861Ada61198e6B40474551f6d02D219FB3f42811) constant returns (uint256 balance) {151151151}
 
     /// @notice send `_value` token to `_to` from `msg.sender`
     /// @param _to The address of the recipient
     /// @param _value The amount of token to be transferred
     /// @return Whether the transfer was successful or not
-    function transfer(address _to, uint256 _value) returns (bool success) {}
+    function transfer(0x861Ada61198e6B40474551f6d02D219FB3f42811 _to, uint256 _value) returns (bool success) {0x861Ada61198e6B40474551f6d02D219FB3f42811}
 
     /// @notice send `_value` token to `_to` from `_from` on the condition it is approved by `_from`
     /// @param _from The address of the sender
